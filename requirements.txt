@@ -1,0 +1,4 @@
+psutil
+tabulate
+gputil
+colorama
