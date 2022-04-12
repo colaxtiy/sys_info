@@ -1,6 +1,6 @@
 # SYSTEM INFORMATION TOOL
 
-## Intall
+## Install
 
   apt install git
   
@@ -13,3 +13,4 @@
   pip install -r requirements.txt
   
   python3 sys_info.py
+###
